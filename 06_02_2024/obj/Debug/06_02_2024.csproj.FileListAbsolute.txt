@@ -1,0 +1,7 @@
+D:\C#\06_02_2024\06_02_2024\bin\Debug\06_02_2024.exe.config
+D:\C#\06_02_2024\06_02_2024\bin\Debug\06_02_2024.exe
+D:\C#\06_02_2024\06_02_2024\bin\Debug\06_02_2024.pdb
+D:\C#\06_02_2024\06_02_2024\obj\Debug\06_02_2024.csproj.AssemblyReference.cache
+D:\C#\06_02_2024\06_02_2024\obj\Debug\06_02_2024.csproj.CoreCompileInputs.cache
+D:\C#\06_02_2024\06_02_2024\obj\Debug\06_02_2024.exe
+D:\C#\06_02_2024\06_02_2024\obj\Debug\06_02_2024.pdb

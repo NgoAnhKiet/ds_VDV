@@ -1,0 +1,7 @@
+D:\C#\06_02_2024\VanDongVien\bin\Debug\VanDongVien.exe.config
+D:\C#\06_02_2024\VanDongVien\bin\Debug\VanDongVien.exe
+D:\C#\06_02_2024\VanDongVien\bin\Debug\VanDongVien.pdb
+D:\C#\06_02_2024\VanDongVien\obj\Debug\VanDongVien.csproj.AssemblyReference.cache
+D:\C#\06_02_2024\VanDongVien\obj\Debug\VanDongVien.csproj.CoreCompileInputs.cache
+D:\C#\06_02_2024\VanDongVien\obj\Debug\VanDongVien.exe
+D:\C#\06_02_2024\VanDongVien\obj\Debug\VanDongVien.pdb

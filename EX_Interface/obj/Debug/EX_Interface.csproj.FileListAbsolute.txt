@@ -1,0 +1,7 @@
+D:\C#\06_02_2024\EX_Interface\bin\Debug\EX_Interface.exe.config
+D:\C#\06_02_2024\EX_Interface\bin\Debug\EX_Interface.exe
+D:\C#\06_02_2024\EX_Interface\bin\Debug\EX_Interface.pdb
+D:\C#\06_02_2024\EX_Interface\obj\Debug\EX_Interface.csproj.AssemblyReference.cache
+D:\C#\06_02_2024\EX_Interface\obj\Debug\EX_Interface.csproj.CoreCompileInputs.cache
+D:\C#\06_02_2024\EX_Interface\obj\Debug\EX_Interface.exe
+D:\C#\06_02_2024\EX_Interface\obj\Debug\EX_Interface.pdb
